@@ -1,0 +1,41 @@
+body {
+    background: 50% 50%;
+    background-color: yellow;
+    /* background-image: url();" */
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    margin: 0px auto 0px 0px;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    border: solid black 2px;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+}
+
+#navbar {
+    margin: 0px 20px 0px 20px
+}
+
+#main-body-of-home {
+    display:flex;
+    margin-top: 20px;
+}
+
+
+#main-body1 {
+    margin: 0px auto 0px 0px;   
+}
+
+.border
